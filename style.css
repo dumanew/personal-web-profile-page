@@ -1,14 +1,14 @@
 /* General Styles */
 body {
-    font-family: 'Poppins', sans-serif; /* Improved modern font */
+    font-family: 'Poppins', sans-serif;
     background-color: #f8f9fa;
     color: #333;
 }
 
 /* Header */
 header {
-    background-color: #ffc107; /* Yellow */
-    color: #007bff; /* Blue */
+    background-color: #ffc107; 
+    color: #007bff; 
     padding: 15px;
     text-align: center;
     font-weight: bold;
@@ -41,7 +41,7 @@ header h1 {
 
 /* Buttons */
 .btn-primary {
-    background-color: #007bff; /* Blue */
+    background-color: #007bff;
     border-color: #007bff;
     padding: 10px 20px;
     font-size: 1rem;
@@ -67,7 +67,7 @@ header h1 {
 
 /* Contact Section */
 #contact a {
-    color: #007bff; /* Blue */
+    color: #007bff;
     font-weight: bold;
     transition: color 0.3s ease-in-out;
 }
